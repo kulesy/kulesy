@@ -5,5 +5,5 @@ One of the Software Engineers working at [SSW](https://www.ssw.com.au/) helping 
 ### ⚡ Quick Facts
 - 🌱 I’m currently working on improving my React, TypeScript, and Golang skills.
 - 💬 Ask me about the UFC; I can talk all day.
-- 🚀 When Starship first landed, I was there in person!
-- 🏒 I play ice hockey competitively for the Melbourne Jets ✈️ 
+- 🚀 Seen the first Starship land!
+- 🏒 I play ice hockey competitively 
